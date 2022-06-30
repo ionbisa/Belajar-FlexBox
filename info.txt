@@ -1,0 +1,8 @@
+Flex Box (Flexible Box Module)
+Flexbox adalah mode layout yang ada di CSS3 dan digunakan untuk mengatur elemen di suatu halaman web.
+Fungsi Flex (flexibel) adalah salah satu super power display dari CSS3.
+Memungkinkan untuk pengaturan layout, posisi dan tampilan dari suatu konten yang ukurannya belum diketahui 
+atau bernilai dinamis. Oleh sebab itu, nilai ini dinamakan Flex diambil dari kata flexibel yang berarti mudah diatur, 
+disesuaikan dan ditukar-tukar.
+
+Riau, 01 Juli 2022
